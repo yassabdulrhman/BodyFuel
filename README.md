@@ -37,10 +37,10 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -53,13 +53,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-<!-- <a href="https://github.com/yassabdulrhamn/BodyFuel">
+<a href="https://github.com/yassabdulrhamn/BodyFuel">
   <img src="github/screenshot.gif" alt="error" >
-</a> -->
-<video controls autoplay>
- <source src="github/screenshot.mp4" type="video/mp4">
- Your browser does not support the video tag.
-</video>
+</a>
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 </p>
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
