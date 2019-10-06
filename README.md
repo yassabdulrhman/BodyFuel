@@ -54,7 +54,7 @@
 ## About The Project
 <p align="center">
 <a href="https://github.com/yassabdulrhamn/BodyFuel">
-  <img src="github/screenshot.gif" alt="Logo" width="300" >
+  <img src="github/screenshot.gif" alt="error" >
 </a>
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 </p>
