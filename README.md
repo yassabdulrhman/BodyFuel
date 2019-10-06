@@ -176,4 +176,4 @@ Project Link: [https://github.com/yassabdulrhamn/BodyFuel](https://github.com/ya
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yaser-abdulrahman/
-[product-screenshot]: screenshot.png
+[product-screenshot]: github/screenshot.gif
