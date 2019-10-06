@@ -53,7 +53,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://github.com/yassabdulrhamn/BodyFuel">
+  <img src="github/screenshot.gif" alt="Logo" width="80" height="80">
+</a>
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 </p>
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
