@@ -15,19 +15,19 @@
     <img src="github/appicon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Yaser Book</h3>
+  <h3 align="center">BodyFuel</h3>
 
   <p align="center">
-    An awesome windows applection
+    Fit tracker app 2018
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
 </p>
 
@@ -58,7 +58,9 @@
 </a>
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 </p>
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+BodyFuel, Fit tracker app 2018
+Using Swift, Firebase I created an app the calculate the BMI and track Steps per a day, Also gives the user a feature to keep tracking his water need, Plus using lottiefiles.com & Adobe After Effects to animate that.
+<!-- There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -67,13 +69,11 @@ Here's why:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+A list of commonly used resources that I find helpful are listed in the acknowledgements. -->
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+<!-- This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
+* [https://console.firebase.google.com/](Firebase.com)
 
 
 
@@ -93,19 +93,20 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Integrate your Firebase [https://console.firebase.google.com/](Firebase.com)
+<!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
 2. Clone the repo
 ```sh
-git clone https:://github.com/your_username_/Project-Name.git
+git clone https:://github.com/yassabdulrhamn/BodyFuel#built-with.git
 ```
 3. Install NPM packages
 ```sh
 npm install
 ```
-4. Enter your API in `config.js`
+<!-- 4. Enter your API in `config.js`
 ```JS
 const API_KEY = 'ENTER YOUR API';
-```
+``` -->
 
 
 
