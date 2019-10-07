@@ -52,8 +52,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![Alt Text](github/screenshot.gif)
 <p align="center">
-![](github/screenshot.gif)
+[](github/screenshot.gif)
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 </p>
 BodyFuel, Fit tracker app 2018
