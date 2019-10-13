@@ -161,7 +161,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@yassabdulrhman](https://twitter.com/yassabdulrhman) - yaserabdulrahman@outlook.com
+Yaser Abdulrahman - [@yassabdulrhman](https://twitter.com/yassabdulrhman) - yaserabdulrahman@outlook.com
 
 Project Link: [https://github.com/yassabdulrhamn/BodyFuel](https://github.com/yassabdulrhamn/BodyFuel)
 
